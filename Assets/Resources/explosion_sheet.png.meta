@@ -1,0 +1,341 @@
+fileFormatVersion: 2
+guid: 8d4405b7b53ebb040ba36d63487ccbca
+timeCreated: 1435094838
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: explosion_sheet_0
+    21300002: explosion_sheet_1
+    21300004: explosion_sheet_2
+    21300006: explosion_sheet_3
+    21300008: explosion_sheet_4
+    21300010: explosion_sheet_5
+    21300012: explosion_sheet_6
+    21300014: explosion_sheet_7
+    21300016: explosion_sheet_8
+    21300018: explosion_sheet_9
+    21300020: explosion_sheet_10
+    21300022: explosion_sheet_11
+    21300024: explosion_sheet_12
+    21300026: explosion_sheet_13
+    21300028: explosion_sheet_14
+    21300030: explosion_sheet_15
+    21300032: explosion_sheet_16
+    21300034: explosion_sheet_17
+    21300036: explosion_sheet_18
+    21300038: explosion_sheet_19
+    21300040: explosion_sheet_20
+    21300042: explosion_sheet_21
+    21300044: explosion_sheet_22
+    21300046: explosion_sheet_23
+    21300048: explosion_sheet_24
+    21300050: explosion_sheet_25
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: explosion_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 252
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 4
+        width: 252
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 4
+        width: 252
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 4
+        width: 252
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 4
+        width: 252
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 4
+        width: 252
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 4
+        width: 252
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 4
+        width: 252
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 4
+        width: 252
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 4
+        width: 252
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 4
+        width: 252
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 4
+        width: 252
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 4
+        width: 252
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 4
+        width: 252
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 3528
+        y: 4
+        width: 252
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 4
+        width: 252
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 4
+        width: 252
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 4284
+        y: 4
+        width: 252
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 4536
+        y: 4
+        width: 252
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 4788
+        y: 4
+        width: 252
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 4
+        width: 252
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 5292
+        y: 4
+        width: 252
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 5544
+        y: 4
+        width: 252
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 5796
+        y: 4
+        width: 252
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 6048
+        y: 4
+        width: 252
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 4
+        width: 252
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
