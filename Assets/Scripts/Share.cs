@@ -16,7 +16,7 @@ public class Share : MonoBehaviour
     public void scoreToTwitter()
     {
         string score = PlayerPrefs.GetString("lastScore");
-        string tweet = "I scored "+score+" points on Cube Area. Can you beat the record? See the ranking on cubearea.com/ranking";
+        string tweet = "I scored "+score+" on Cube Area! Check it out! https://play.google.com/store/apps/details?id=com.battlesoft.cubearea";
         twitter(tweet);
     }
 }
